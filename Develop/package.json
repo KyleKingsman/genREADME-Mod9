@@ -1,4 +1,12 @@
 {
+  "repository": {
+  "type": "Git",
+  "url": "git+https://github.com/KyleKingsman/genREADME-Mod9.git"
+}, 
+  "bugs": {
+    "url": "https://github.com/KyleKingsman/genREADME-Mod9/issues"
+  },
+  "homepage": "https://github.com/KyleKingsman/genREADME-Mod9#readme",
   "name": "static-site",
   "version": "1.0.0",
   "description": "",
@@ -6,8 +14,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [], 
   "author": "",
   "license": "ISC",
+
   "dependencies": {
     "inquirer": "8.2.4"
   }
